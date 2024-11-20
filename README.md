@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div alight="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=25&pause=300&color=16A9FB&center=true&vCenter=true&random=false&width=435&lines=Hi!;I'm+Gabriel+%F0%9F%98%8E;Hola!+%F0%9F%91%90;Soy+Gabriel%F0%9F%A4%97" alt="Typing SVG" /></a>
@@ -19,11 +18,9 @@
 
 ### **Data Analyst Prospect**
 
-I enjoy learning new things and expanding my knowledge, I have great agility in mathematics, logic, technology and creativity. I love programming and solving common problems by automating processes. 
+I'm Gabriel Romero, a Computer Engineering student interested in data analysis and solving problems with technology. I enjoy learning new tools and creating solutions using Python, SQL, and Tableau.
 
-I recently attended a technology bootcamp at TripleTen focused on data analytics, where I was able to put my Python and SQL skills into practice.
-
-Here you can find projects that I developed.
+I recently started working on projects that help me improve my skills and understand how data can create value. Feel free to check out my work and connect with me!
 
 ## 📚 Languages-Tools 🔧
 
@@ -31,10 +28,3 @@ Here you can find projects that I developed.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,pandas,tableau,php"/>
 </div>
 
-## 🔥 Stats 🔥
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PPJQ&show_icons=true&theme=dracula&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPJQ&theme=dracula&border_radius=10" alt="top langs"/>
-</div>
